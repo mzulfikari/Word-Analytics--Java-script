@@ -52,11 +52,11 @@ cd Word-Analytics--Java-script
 ---
 ## 📂 Project Structure
 Word-Analytics--Java-script/
-├─ index.html       # Main UI
-├─ script.js        # Core text analysis logic
-├─ style.css        # Styling and layout
-├─ images/          # UI screenshots (optional)
-└─ LICENSE          # Apache-2.0 license
+├─ index.html       
+├─ script.js      
+├─ style.css       
+├─ images/          
+└─ LICENSE         
 ---
 ## 🧩 How to Use
 1.Enter or paste your text into the input area.
