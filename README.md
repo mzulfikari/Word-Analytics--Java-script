@@ -37,11 +37,6 @@ Its minimal structure makes it easy to extend or integrate into other projects.
 
 ---
 
-## 🖥️ Live Preview (optional)
-Add after uploading:  
-
----
-
 ## 🚀 Getting Started
 
 ### **1. Clone the repository**
@@ -60,11 +55,11 @@ Word-Analytics--Java-script/
 └─ LICENSE         
 ---
 ## 🧩 How to Use
-1.Enter or paste your text into the input area.
+Enter or paste your text into the input area.
 
-2.Click the Analyze button.
+Click the Analyze button.
 
-3.View the results:
+View the results:
 
  Word count
 
