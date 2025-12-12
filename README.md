@@ -10,6 +10,8 @@ Perfect for learning, experimenting, or integrating basic text analytics into we
 ---
 
 ## 📌 Overview
+## Preview  
+![Preview Screenshot](images/docs.png)
 
 **Word Analytics** is a lightweight, browser-based text analysis tool built using pure JavaScript.  
 It performs essential word statistics such as:
@@ -61,13 +63,12 @@ Enter or paste your text into the input area.
 
 **2.** View the results:
 
-     ●  Word count
+ ●  Word count
 
-     ●  Character count
+ ●  Character count
 
-     ●  Unique words
- 
-     ●  Word frequency
+ ●  Unique words
+ ●  Word frequency
  
 **4.**.Clear or analyze again at any time.
 
