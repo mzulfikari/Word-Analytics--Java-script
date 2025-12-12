@@ -77,3 +77,23 @@ Word-Analytics--Java-script/
 4.Clear or analyze again at any time.
 
 ---
+
+## 🛠️ Roadmap (Ideas for Future Enhancements)
+Add stop word filtering
+
+Export results as JSON / CSV
+
+Add charts using Chart.js (word frequency visualization)
+
+Add bigrams / trigrams
+
+Add text file (.txt) upload support
+
+Add automated tests for script.js
+
+Improve UI components
+
+---
+## 👤 Author
+mzulfikari
+GitHub: https://github.com/mzulfikari
