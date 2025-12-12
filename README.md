@@ -52,6 +52,7 @@ cd Word-Analytics--Java-script
 ---
 ## 📂 Project Structure
 Word-Analytics--Java-script/
+
 ├─ index.html       
 ├─ script.js      
 ├─ style.css       
