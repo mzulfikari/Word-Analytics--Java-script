@@ -57,7 +57,7 @@ Word-Analytics--Java-script/
 ## 🧩 How to Use
 Enter or paste your text into the input area.
 
-Click the Analyze button.
+**1**Click the Analyze button.
 
 View the results:
 
