@@ -57,19 +57,19 @@ Word-Analytics--Java-script/
 ## 🧩 How to Use
 Enter or paste your text into the input area.
 
-● **1.** Click the Analyze button.
+**1.** Click the Analyze button.
 
-View the results:
+**2.** View the results:
 
- Word count
+●  Word count
 
- Character count
+●  Character count
 
- Unique words
+●  Unique words
 
- Word frequency
+●  Word frequency
 
-4.Clear or analyze again at any time.
+**4.**.Clear or analyze again at any time.
 
 ---
 
