@@ -39,3 +39,40 @@ Its minimal structure makes it easy to extend or integrate into other projects.
 
 ## 🖥️ Live Preview (optional)
 Add after uploading:  
+
+---
+
+## 🚀 Getting Started
+
+### **1. Clone the repository**
+```bash
+git clone https://github.com/mzulfikari/Word-Analytics--Java-script.git
+cd Word-Analytics--Java-script
+```
+---
+## 📂 Project Structure
+Word-Analytics--Java-script/
+├─ index.html       # Main UI
+├─ script.js        # Core text analysis logic
+├─ style.css        # Styling and layout
+├─ images/          # UI screenshots (optional)
+└─ LICENSE          # Apache-2.0 license
+---
+## 🧩 How to Use
+1.Enter or paste your text into the input area.
+
+2.Click the Analyze button.
+
+3.View the results:
+
+ Word count
+
+ Character count
+
+ Unique words
+
+ Word frequency
+
+4.Clear or analyze again at any time.
+
+---
